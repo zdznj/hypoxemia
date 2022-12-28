@@ -8,11 +8,7 @@ Put the data in the appropriate folder, run the Python code with [**Jupyter Note
 
 
 
-**In this study, patients' data are absolutely protected, so they cannot be provided.**
-
-
-
-If any questions, please contact us at [zoujianjun100@126.com](mailto:zoujianjun100@126.com)
+If any questions, please contact us at [siyanna@163.com](mailto:siyanna@163.com)
 
 
 
